@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <title>  Table Tutorial</title>
+    </head>
+
+    <body>
+        <table width="100%" border="1" bordercolor="blue" cellsapacing="2" cellpadding="2">
+
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+		
+		<pr> enter name <br> this is line 1 <br> this is line 2. &nbsp;nbsp&nbsp this is line 3  </pr>
+	    <p> <strong> Bold text</strong </p>	
+		<h1> <font face = "arial" size = "22" color="blue"> header </font> </h1
+		
+<h5> my fav sports </h5>
+<ol> 
+  <li>basketball </li>
+  <li>basketball </li>
+  <li>basketball </li>
+  <li>basketball </li>
+  <li>basketball </li>
+</ol>
+<h1>work image </h1>
+<p>
+
+<img src="website2.jpg" width="333" height="250">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F713nnjX%2BUaS._AC_UF1000%2C1000_QL80_.jpg&tbnid=YjPR4dJhw06j_M&vet=12ahUKEwjT4Y7P1KiCAxWDrycCHeGpCs8QMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FPHILOMATH-Geometric-Unification-Science-Through%2Fdp%2FB093BC3K1X&docid=m_M62WuZrlhl6M&w=800&h=1000&q=philomath&ved=2ahUKEwjT4Y7P1KiCAxWDrycCHeGpCs8QMygAegQIARBH" width = "333" height = "323">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fword-of-the-day-philomath-i-think-this-word-describes-many-of-our-followers-have-a-great-w--596445544398985176%2F&psig=AOvVaw1RMb1gqA9KyniJlsB6XdEe&ust=1699129457316000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCMCopd_UqIIDFQAAAAAdAAAAABAD" width = "333" height = "323">
+</p>
+		<a href="http://www.zewailcity.edu.eg" target="blank"> zewailcity.edu.eg</a><br>
+		
+	<video width=100% 
+     <source src="zum.mb4" type="video/mb4">	
+	</video> 
+        </table>
+    </body>
+<p><h1>Table of Contents: </h1></p>
+<ul>
+   <li><a  href="#article1"> Article 1 </a><br>
+	</li>
+	 <li><a  href="#article1"> Article 1 </a><br>
+	</li>
+	</ul>
+	<p><h1><a id="article" ></a> Article 1 </h1></p>
+	
+	<p>
+	
+	
+	<li><a href = "#article"> Areticle</a><br>
+	<head>
+	<meta charset="utf-8">
+	<title> Table ofcontent</title>
+	<body>
+	
+	<table width= "1000" border= "1" bordercolor="blue" cellspacing="2" cellpading="2">
+	
+	<tr>
+	    <td> sport</td/>
+		<tr>
+		
+	</table>
+	<form name="emplyment" section="send php" method post 
+	<table background"aya.jpg" width=100% border="1" bordercolor="red" cellspacing="2" cellpadding="2">
+	
+	
+	
+        <tr>
+            <td> background"aya.jpg" sports</td>
+            <td> football </td>
+        </tr>
+
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+        <tr>
+            <td> sports</td>
+            <td> football </td>
+        </tr>
+	</body>
+	</head>
+	
+<form name="employment" section="send php" method="post">
+<table width="600" height="1" cellspacing="2" cellpadding="2">
+	<tr>
+	
+	  <td> Employment application </td>
+	  <td></td>
+	</tr>
+		<tr> 
+	  <td> First name </td>
+	  <td><input type ="text" name="fname" maxlength = "50" /></td>
+	</tr>
+	
+		<tr> 
+	  <td> Last name </td>
+	  <td> <input type ="text" name="fname" maxlength = "50" </td>
+	</tr>
+	
+	
+	  <td> position </td>
+	  <td>
+       
+		
+	<select>
+	    <option value="Ac"> Accountant </option>
+		<option value="RE"> Receptionist </option>
+		<option value="AD"> Administrator </option>
+		<option value="SU"> supervisor  </option>  
+	 
+	  </td>
+	</tr>
+	
+	
+	
+	</tr>
+	
+	
+	  <td> position </td>
+	  <td>
+       
+		
+	<select>
+	    <option value="Ac"> Accountant </option>
+		<option value="RE"> Receptionist </option>
+		<option value="AD"> Administrator </option>
+		<option value="SU"> supervisor  </option>  
+	 
+	  </td>
+	</tr>
+	
+	</tr>
+	
+	
+	  <td> position </td>
+	  <td>
+       
+		
+	<select>
+	    <option value="Ac"> Accountant </option>
+		<option value="RE"> Receptionist </option>
+		<option value="AD"> Administrator </option>
+		<option value="SU"> supervisor  </option>  
+	 
+	  </td>
+	</tr>
+	
+	</tr>
+	
+	
+	  <td> position </td>
+	  <td>
+       
+		
+	<select>
+	    <option value="Ac"> Accountant </option>
+		<option value="RE"> Receptionist </option>
+		<option value="AD"> Administrator </option>
+		<option value="SU"> supervisor  </option>  
+	 
+ 	 <tr>
+	    <td> Job time </td>
+         <td> 
+              <input type="checkbox" name="ft" />Full-time
+			  <input type="checkbox" name="ft" />part-time
+              <input type="checkbox" name="ft" />contact	  
+		 <td/>
+
+	 </tr>
+	 
+	 <tr>
+	    <td> Status </td>
+         <td> 
+              <input type="radio" name="estatus" />Full-time
+			  <input type="radio" name="estatus" />part-time
+              <input type="radio" name="estatus" />contact	  
+		 <td/>
+
+	 </tr>
+
+	  </td>
+	</tr>
+
+	 <tr>
+	    <td> additional comment </td>
+		<td> 
+		<textarea  name="comment" cols="45" row="5"> </textarea>
+		</td>
+	</tr>
+	<iframe src="http://www.ask.com" width="100%" height=40%>
+	<p> your browser does not support iframe </p>
+	<iframe src="http://www.bing.com" width="100%" height=40%>
+	<p> your browser does not support iframe </p>
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>
